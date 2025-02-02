@@ -1,0 +1,1 @@
+export type CheckouSteps = "user" | "address" | "finish"
